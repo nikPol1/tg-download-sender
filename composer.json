@@ -1,0 +1,10 @@
+{
+    "name": "opkl/tg",
+    "type": "project",
+    "license": "none",
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "v5.6.1",
+        "irazasyed/telegram-bot-sdk": "v3.14.0"
+    }
+}
